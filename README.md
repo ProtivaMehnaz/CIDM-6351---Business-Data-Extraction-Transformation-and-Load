@@ -1,0 +1,1 @@
+In this file, I have performed three major tasks of business data ETL: importing data, cleaning the data in preparation for data analysis, and creating a bar graph. Each major task has subtasks for better analysis.
