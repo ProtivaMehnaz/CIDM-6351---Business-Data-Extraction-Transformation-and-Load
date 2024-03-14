@@ -9,4 +9,4 @@ Creating visualizations that support the researchers' conclusions.
 Communicating the main findings in written form.
 Scraping a website to gather data.
 
-The third file: 
+The third file: This file is about transforming data. I have applied transformation operations on various datasets.
